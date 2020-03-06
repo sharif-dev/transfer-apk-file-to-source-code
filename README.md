@@ -1,6 +1,9 @@
 # transfer-apk-file-to-source-code
 
-For decoding .apk files, there are some steps:
+
+
+
+For decoding .apk files, there are some steps as you can see in [stackoverflow](https://stackoverflow.com/questions/3593420/is-there-a-way-to-get-the-source-code-from-an-apk-file):
 #### Step 1:
 Create a folder with your .apk file inside it. Then change the .apk file to .zip by renaming from filename.apk to filename.zip. By extracting the zip file, you see the classes.dex files, etc. At this step you can see drawables but not xml and java files.
 
