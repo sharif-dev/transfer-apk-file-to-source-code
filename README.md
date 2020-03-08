@@ -17,7 +17,7 @@ Move the classes.dex file into the dex2jar folder.
 ##### if you are on windows
 Open command prompt. Then change directory to dex2jar folder and write ```d2j-dex2jar classes.dex```. Now you have the    classes.dex.dex2jar file in the dex2jar folder.
 ##### if you are on linux/mac:
-Open terminal. Then change directory to dex2jar folder and write ```./d2j-dex2jar.sh classes.dex```. Now you have the classes.dex.dex2jar file in the dex2jar folder.
+Open terminal. Then change directory to dex2jar folder and write ```./d2j-dex2jar.sh classes.dex```. Now you have the classes.dex.dex2jar file in the dex2jar folder. if you have an error "permission denied" write ```chmod a+x *.sh``` to fix it.
 <p align="center">
 <img src="./pic/2.png" width="400" height="300">
 </p>
